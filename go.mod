@@ -1,4 +1,4 @@
-module howett.net/plist
+module github.com/amalone-scwx/plist
 
 go 1.12
 
